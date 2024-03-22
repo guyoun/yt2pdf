@@ -100,7 +100,7 @@ if __name__ == '__main__':
     video_path = 'video.mp4'
 
     # 씬 감지 임계값 설정
-    threshold = 30
+    threshold = 20
 
     # output 정리
     prepare_output(image_dir)
